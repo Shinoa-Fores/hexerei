@@ -2,6 +2,8 @@
 
 `inscriptions-parser.py` is a simple Python script that extracts the raw inscription data from the taproot witness data and generates a binary output file with the results.
 
+*The script requires Python 3.*
+
 To use the inscriptions parser script:
 
 1. Find your inscription tx on a bitcoin explorer i.e. https://mempool.space
