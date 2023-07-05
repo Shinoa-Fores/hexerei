@@ -12,6 +12,4 @@ To use the inscriptions parser script:
 6. Append the appropiate file extension to the output file i.e. `inscription-output.jpg`
 7. Open the file and rejoice!
 
-I made a video that goes over the thinking behind ordinals and I use this script to do a Proof of Inscription.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s7O13il4-0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+I made a video that goes over the thinking behind ordinals and I use this script to do a Proof of Inscription: https://youtu.be/s7O13il4-0Y
