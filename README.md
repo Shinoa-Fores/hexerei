@@ -1,10 +1,14 @@
-# ordinal-experiments
+# hexerei
+
 
 `inscriptions-parser.py` is a simple Python script that extracts the raw inscription data from the taproot witness data and generates a binary output file with the results.
 
 *The script requires Python 3.*
 
 To use the inscriptions parser script:
+(Before I update this, steps 1-4 are totally retarded, one should READ FROM A FUCKING FILE. Step 6 shall be dealt with.)
+
+
 
 1. Find your inscription tx on a bitcoin explorer i.e. https://mempool.space
 2. Find the witness data in the tx details
@@ -14,4 +18,4 @@ To use the inscriptions parser script:
 6. Append the appropiate file extension to the output file i.e. `inscription-output.jpg`
 7. Open the file and rejoice!
 
-I made a video that goes over the thinking behind ordinals and I use this script to do a Proof of Inscription: https://youtu.be/s7O13il4-0Y
+
