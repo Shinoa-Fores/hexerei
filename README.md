@@ -31,3 +31,5 @@ Of course the Bitcoin blockchain can play DOOM, we are wizards after all! Just e
 <p align="center">
   <img src="https://github.com/Shinoa-Fores/hexerei/blob/master/img/doom.png?raw=true" alt="doom"/>
 </p>
+
+<p><b>Donate</b> to support future upgrades to this project and many more! BTC: 1Kqig4hSAiuKdJxn8pqDuJmFinkDPUieNy</p>
